@@ -1,2 +1,2 @@
 # ww-decontidebate
-www,thecontidebate
+www,thecontinentaldebate
